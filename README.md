@@ -1,4 +1,4 @@
-#  Balanced Brackets
+#  Transit Leg Massage
 
-## A JS implementation of the BalancedBrackets kata from codewars
+## A JS implementation of the TransitLegMassage kata from codewars
 
